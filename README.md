@@ -24,10 +24,6 @@ options:
 
 sample output 
 
-Final data with NO Duplicates<img width="1176" height="280" alt="Screenshot 2025-08-20 at 8 07 43 PM" src="https://github.com/user-attachments/assets/91b92f85-13b5-43b7-8dec-780e3b1bb671" />
+<img width="1176" height="280" alt="Screenshot 2025-08-20 at 8 07 43 PM" src="https://github.com/user-attachments/assets/91b92f85-13b5-43b7-8dec-780e3b1bb671" />
 
-vug789238jdsnfsj23  foo1@bar.com  2014-05-07T17:33:20+00:00
-wuj08238jdsnfsj23  foo@bar.com  2014-05-07T17:33:20+00:00
-belr28238jdsnfsj23  mae@bar.com  2014-05-07T17:33:20+00:00
-jkj238238jdsnfsj23  bill@bar.com  2014-05-07T17:33:20+00:00
-wabaj238238jdsnfsj23  bog@bar.com  2014-05-07T17:31:20+00:00
+
