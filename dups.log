@@ -1,0 +1,73 @@
+
+---- args ----
+2025-08-20 19:32:49,047 - INFO - Results of the application
+2025-08-20 19:32:49,047 - INFO - changes set to:  True
+2025-08-20 19:32:49,047 - INFO - Function : changes
+2025-08-20 19:32:49,047 - INFO - Final data with NO Duplicates
+2025-08-20 19:32:49,047 - INFO - Unexpected err=TypeError('print_log() takes from 1 to 2 positional arguments but 3 were given'), type(err)=<class 'TypeError'>
+2025-08-20 19:33:35,648 - INFO - 
+---- args ----
+2025-08-20 19:33:35,648 - INFO - Results of the application
+2025-08-20 19:33:35,648 - INFO - changes set to:  True
+2025-08-20 19:33:35,648 - INFO - Function : changes
+2025-08-20 19:33:35,648 - INFO - Final data with NO Duplicates
+2025-08-20 19:33:35,648 - INFO - vug789238jdsnfsj23foo1@bar.com2014-05-07T17:33:20+00:00
+2025-08-20 19:33:35,648 - INFO - wuj08238jdsnfsj23foo@bar.com2014-05-07T17:33:20+00:00
+2025-08-20 19:33:35,648 - INFO - belr28238jdsnfsj23mae@bar.com2014-05-07T17:33:20+00:00
+2025-08-20 19:33:35,648 - INFO - jkj238238jdsnfsj23bill@bar.com2014-05-07T17:33:20+00:00
+2025-08-20 19:33:35,648 - INFO - wabaj238238jdsnfsj23bog@bar.com2014-05-07T17:31:20+00:00
+2025-08-20 19:34:10,768 - INFO - 
+---- args ----
+2025-08-20 19:34:10,768 - INFO - Results of the application
+2025-08-20 19:34:10,768 - INFO - changes set to:  True
+2025-08-20 19:34:10,768 - INFO - Function : changes
+2025-08-20 19:34:10,768 - INFO - Final data with NO Duplicates
+2025-08-20 19:34:10,768 - INFO - vug789238jdsnfsj23-foo1@bar.com-2014-05-07T17:33:20+00:00
+2025-08-20 19:34:10,768 - INFO - wuj08238jdsnfsj23-foo@bar.com-2014-05-07T17:33:20+00:00
+2025-08-20 19:34:10,768 - INFO - belr28238jdsnfsj23-mae@bar.com-2014-05-07T17:33:20+00:00
+2025-08-20 19:34:10,768 - INFO - jkj238238jdsnfsj23-bill@bar.com-2014-05-07T17:33:20+00:00
+2025-08-20 19:34:10,768 - INFO - wabaj238238jdsnfsj23-bog@bar.com-2014-05-07T17:31:20+00:00
+2025-08-20 19:34:21,782 - INFO - 
+---- args ----
+2025-08-20 19:34:21,782 - INFO - Results of the application
+2025-08-20 19:34:21,782 - INFO - changes set to:  True
+2025-08-20 19:34:21,782 - INFO - Function : changes
+2025-08-20 19:34:21,782 - INFO - Final data with NO Duplicates
+2025-08-20 19:34:21,782 - INFO - vug789238jdsnfsj23//foo1@bar.com//2014-05-07T17:33:20+00:00
+2025-08-20 19:34:21,782 - INFO - wuj08238jdsnfsj23//foo@bar.com//2014-05-07T17:33:20+00:00
+2025-08-20 19:34:21,782 - INFO - belr28238jdsnfsj23//mae@bar.com//2014-05-07T17:33:20+00:00
+2025-08-20 19:34:21,782 - INFO - jkj238238jdsnfsj23//bill@bar.com//2014-05-07T17:33:20+00:00
+2025-08-20 19:34:21,782 - INFO - wabaj238238jdsnfsj23//bog@bar.com//2014-05-07T17:31:20+00:00
+2025-08-20 19:34:36,642 - INFO - 
+---- args ----
+2025-08-20 19:34:36,643 - INFO - Results of the application
+2025-08-20 19:34:36,643 - INFO - changes set to:  True
+2025-08-20 19:34:36,643 - INFO - Function : changes
+2025-08-20 19:34:36,643 - INFO - Final data with NO Duplicates
+2025-08-20 19:34:36,643 - INFO - vug789238jdsnfsj23  foo1@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 19:34:36,643 - INFO - wuj08238jdsnfsj23  foo@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 19:34:36,643 - INFO - belr28238jdsnfsj23  mae@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 19:34:36,643 - INFO - jkj238238jdsnfsj23  bill@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 19:34:36,643 - INFO - wabaj238238jdsnfsj23  bog@bar.com  2014-05-07T17:31:20+00:00
+2025-08-20 20:05:44,235 - INFO - 
+---- args ----
+2025-08-20 20:05:44,235 - INFO - Results of the application
+2025-08-20 20:05:44,235 - INFO - changes set to:  True
+2025-08-20 20:05:44,235 - INFO - Function : changes
+2025-08-20 20:05:44,235 - INFO - Final data with NO Duplicates
+2025-08-20 20:05:44,235 - INFO - vug789238jdsnfsj23  foo1@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:05:44,235 - INFO - wuj08238jdsnfsj23  foo@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:05:44,235 - INFO - belr28238jdsnfsj23  mae@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:05:44,235 - INFO - jkj238238jdsnfsj23  bill@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:05:44,235 - INFO - wabaj238238jdsnfsj23  bog@bar.com  2014-05-07T17:31:20+00:00
+2025-08-20 20:11:22,924 - INFO - 
+---- args ----
+2025-08-20 20:11:22,924 - INFO - Results of the application
+2025-08-20 20:11:22,924 - INFO - changes set to:  True
+2025-08-20 20:11:22,924 - INFO - Function : changes
+2025-08-20 20:11:22,924 - INFO - Final data with NO Duplicates
+2025-08-20 20:11:22,924 - INFO - vug789238jdsnfsj23  foo1@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:11:22,924 - INFO - wuj08238jdsnfsj23  foo@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:11:22,924 - INFO - belr28238jdsnfsj23  mae@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:11:22,924 - INFO - jkj238238jdsnfsj23  bill@bar.com  2014-05-07T17:33:20+00:00
+2025-08-20 20:11:22,924 - INFO - wabaj238238jdsnfsj23  bog@bar.com  2014-05-07T17:31:20+00:00
