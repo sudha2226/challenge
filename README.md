@@ -11,6 +11,7 @@ options:
   -h, --help            show this help message and exit
   --dry-run, --no-dry-run
 
+
   -c, --changes         Changes: from/to (default: False)
   --cli, --no-cli
   -u, --username USERNAME [USERNAME ...]
@@ -22,8 +23,7 @@ options:
   -s, --status          Status mode: show current status of apps (default: False)
 
 
-sample output 
 
-<img width="1176" height="280" alt="Screenshot 2025-08-20 at 8 07 43 PM" src="https://github.com/user-attachments/assets/91b92f85-13b5-43b7-8dec-780e3b1bb671" />
+<img width="982" height="435" alt="Screenshot 2025-08-20 at 8 11 56 PM" src="https://github.com/user-attachments/assets/2411b3ee-370b-4e3e-8594-15a99f8af3e8" />
 
 
